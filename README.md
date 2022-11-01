@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, eu sou o Gabriel Sousa</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, eu sou o Gabriel</h1>
 
 
 <div id='lojc' align="center">
